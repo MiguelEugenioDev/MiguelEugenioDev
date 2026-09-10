@@ -1,8 +1,8 @@
-# Miguel
+Desenvolvedor em formação | Front-end & Banco de Dados
 
-**Web Developer**
+Atualmente estou estudando e desenvolvendo projetos utilizando HTML, CSS, JavaScript e SQL, buscando evoluir constantemente minhas habilidades em desenvolvimento web e construção de aplicações.
 
-Desenvolvedor focado na criação de aplicações web modernas, funcionais e responsivas.
+Tenho interesse em transformar ideias em projetos funcionais, organizados e com uma boa experiência para o usuário.
 
 ### Stack
 
