@@ -2,11 +2,7 @@
 
 ### 🚀 Minhas Tecnologias
 
-<table>
-  <tr>
-    <td><img src="https://shields.io" alt="HTML5"></td>
-    <td><img src="https://shields.io" alt="CSS3"></td>
-    <td><img src="https://shields.io" alt="JavaScript"></td>
-    <td><img src="https://shields.io" alt="MySQL"></td>
-  </tr>
-</table>
+### 🚀 Minhas Tecnologias
+
+![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) ![MySQL](https://shields.io)
+
